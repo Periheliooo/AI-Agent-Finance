@@ -1,0 +1,10 @@
+{
+  "name": "ai-agent-finance",
+  "version": "0.1.0",
+  "description": "AI 金融市场 Agent 模拟系统 — 最小可运行版本",
+  "scripts": {
+    "start": "python simulation.py"
+  },
+  "keywords": ["ai-agent", "finance", "simulation", "market"],
+  "license": "MIT"
+}
